@@ -3,6 +3,9 @@
 
 Hi ! Here is an initially little project that became kinda bigger due to the time it took in order to resolve all the problems (especially with threading and collisions).
 
+![image](https://user-images.githubusercontent.com/72820204/188311953-ee312954-b415-4add-8e9d-1ec2c086a01e.png)
+
+
 It's fully in python, easily editable and easily usable.
 
 ## Installation
@@ -28,3 +31,6 @@ At each frame, each planet's speed vector is edited according to all gravitation
 
 ## Demo
 > Here is a little demo of the program on my computer
+
+https://user-images.githubusercontent.com/72820204/188311897-6b51b95d-b95d-4d1d-b9d6-a4aaf4af0c97.mp4
+
