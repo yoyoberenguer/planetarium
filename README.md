@@ -30,7 +30,7 @@ When you launch the program, the simulation is automatically on pause : here are
 At each frame, each planet's speed vector is edited according to all gravitational interactions with all other planets using newton laws. Every time a collision happens, elastic collision rules are applied (no energy is lost). The program is multi-threaded : thread-1 is for the simultation and thread-2 is for the LCP (otherwise tkinter (that hanles LCP) stops pygame (that handles the simulation))
 
 ## Demo
-> Here is a little demo of the program on my computer
+> Here is a little demo of the program on my computer (reload the page if it doesn't work)
 
 https://user-images.githubusercontent.com/72820204/188311897-6b51b95d-b95d-4d1d-b9d6-a4aaf4af0c97.mp4
 
