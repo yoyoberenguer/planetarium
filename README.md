@@ -12,8 +12,7 @@ It's fully in python, easily editable and easily usable.
 * First download main.py
 * Then install these requirements after having pyhton 3.10 installed (it should work with numerous previous versions but I haven't tested them yet)
 ```py
-pip install pygame
-pip install ElasticCollision
+pip install requirements.txt
 ```
 * The project also uses sys, math, random, tkinter and threading : pre-installed libs
 
