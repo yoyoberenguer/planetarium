@@ -1,0 +1,2 @@
+ElasticCollision==1.0.2
+pygame==2.1.2
